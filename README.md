@@ -1,3 +1,4 @@
+![logo](https://github.com/Tanzeelacode/Tanzeelacode/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Tanzeela</h1>
 <h3 align="center">A passionate frontend developer from pakistan</h3>
 <img align="right" alt="coding" width="300" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif">
