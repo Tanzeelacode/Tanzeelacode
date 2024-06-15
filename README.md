@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tanzeela</h1>
 <h3 align="center">A passionate frontend developer from pakistan</h3>
-<img align="right" alt="coding" width="400" src="![image](https://github.com/Tanzeelacode/Tanzeelacode/assets/172917578/c432eb3a-01e4-4b67-911a-d760b1c318b5)
+<img align="right" alt="coding" width="400" src="https://tenor.com/view/coding-gif-4706460855862906629.
 ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanzeelacode&label=Profile%20views&color=0e75b6&style=flat" alt="tanzeelacode" /> </p>
